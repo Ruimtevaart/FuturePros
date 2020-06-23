@@ -1,0 +1,13 @@
+C:\Users\grana\Documents\Universitetas\C sharp FuturePros\FuturePros\FuturePros\bin\Debug\netcoreapp3.1\FuturePros.exe
+C:\Users\grana\Documents\Universitetas\C sharp FuturePros\FuturePros\FuturePros\bin\Debug\netcoreapp3.1\FuturePros.deps.json
+C:\Users\grana\Documents\Universitetas\C sharp FuturePros\FuturePros\FuturePros\bin\Debug\netcoreapp3.1\FuturePros.runtimeconfig.json
+C:\Users\grana\Documents\Universitetas\C sharp FuturePros\FuturePros\FuturePros\bin\Debug\netcoreapp3.1\FuturePros.runtimeconfig.dev.json
+C:\Users\grana\Documents\Universitetas\C sharp FuturePros\FuturePros\FuturePros\bin\Debug\netcoreapp3.1\FuturePros.dll
+C:\Users\grana\Documents\Universitetas\C sharp FuturePros\FuturePros\FuturePros\bin\Debug\netcoreapp3.1\FuturePros.pdb
+C:\Users\grana\Documents\Universitetas\C sharp FuturePros\FuturePros\FuturePros\obj\Debug\netcoreapp3.1\FuturePros.csprojAssemblyReference.cache
+C:\Users\grana\Documents\Universitetas\C sharp FuturePros\FuturePros\FuturePros\obj\Debug\netcoreapp3.1\FuturePros.AssemblyInfoInputs.cache
+C:\Users\grana\Documents\Universitetas\C sharp FuturePros\FuturePros\FuturePros\obj\Debug\netcoreapp3.1\FuturePros.AssemblyInfo.cs
+C:\Users\grana\Documents\Universitetas\C sharp FuturePros\FuturePros\FuturePros\obj\Debug\netcoreapp3.1\FuturePros.csproj.CoreCompileInputs.cache
+C:\Users\grana\Documents\Universitetas\C sharp FuturePros\FuturePros\FuturePros\obj\Debug\netcoreapp3.1\FuturePros.dll
+C:\Users\grana\Documents\Universitetas\C sharp FuturePros\FuturePros\FuturePros\obj\Debug\netcoreapp3.1\FuturePros.pdb
+C:\Users\grana\Documents\Universitetas\C sharp FuturePros\FuturePros\FuturePros\obj\Debug\netcoreapp3.1\FuturePros.genruntimeconfig.cache
